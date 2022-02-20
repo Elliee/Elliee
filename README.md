@@ -1,6 +1,6 @@
 ## Hi there, I'm Ellie 👋
 
-**About me **
+**About me**
 
 I am a junior fullstack developer based in Melbourne, Australia :round_pushpin:
 
