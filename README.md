@@ -2,13 +2,11 @@
 
 **About me**
 
-I am a junior fullstack developer based in Melbourne, Australia :round_pushpin:
+I am a software developer based in Melbourne, Australia :round_pushpin:
 
-I recently completed a 6 month Web Development bootcamp with Le Wagon, where I learnt HTML, CSS, Javascript, Bootstrap, SQL/Database design, Ruby and the Rails framework. As a final project, my team and I designed and built a Rails app - http://www.learnfromthegroundup.com/ - a web application which enables people to learn a new skill and document their learning journey. 
+I decided to make a career change from software sales into software development after learning to code during the pandemic and completing a Web Development bootcamp. I currently work as an Associate Software Engineer at Digio, where I get to work with a variety of different technologies. I enjoy the creativity and problem solving aspects of software development and learning new topics.
 
-My background in Customer Success/Sales allowed me to be collaborative, adaptive to feedback, and understand client requirements - all skills which have been helpful transitioning careers into software development.
-
-Outside of coding, I enjoy spending time at the beach :ocean:, travelling :airplane:, and good coffee/food! :coffee:
+Outside of working, I enjoy spending time at the beach :ocean:, travelling :airplane:, and good coffee + food! :coffee:
 
 
 
